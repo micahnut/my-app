@@ -1,4 +1,5 @@
-This is a Simple React App 
+This is a Simple React App with a menu and some pages.
+
 
 ![Screenshot](my-app.gif)
 
