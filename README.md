@@ -5,6 +5,7 @@ This is a Simple React App with a menu and some pages.
 
 
 
+Used tailwindcss and reactJS to create it. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
